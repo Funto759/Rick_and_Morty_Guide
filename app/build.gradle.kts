@@ -101,4 +101,7 @@ dependencies {
     // Coil
     implementation ("io.coil-kt:coil:1.1.1")
     implementation ("com.google.accompanist:accompanist-coil:0.7.0")
+
+
+    implementation("androidx.paging:paging-runtime:3.2.1")
 }
